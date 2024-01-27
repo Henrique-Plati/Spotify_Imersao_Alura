@@ -1,0 +1,48 @@
+:root{
+    /* FONT */
+    --font-dm-sans: "DM Sans", sans-serif;
+
+
+    /* COLORS */
+    --bg-icon: #131313;
+    --bg-arrow-color:rgba(0,0,07);
+
+}
+
+/*
+.header__navigation{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    padding: 16px;
+    margin: 10px;
+    border-radius: 8px;
+    background-color: #201b2d;
+}
+
+
+.header__login .subscribe{
+    color: #a7a7a7;
+    font-size: 16px;
+    font-weight: 700;
+    background-color: transparent;
+    margin-right: 32px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.header__login .login{
+    width: 100px;
+    height: 48px;
+    color: #000;
+    font-size: 16px;
+    font-weight: 700;
+    border: none;
+    border-radius: 40px;
+}
+
+
+
+
+*/
